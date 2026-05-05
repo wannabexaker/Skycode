@@ -3,7 +3,7 @@
   "version": "1.0.0-beta.2",
   "description": "Offline AI coding agent with knowledge graph extraction, powered by Ollama and local LLMs",
   "author": "Sky-Code Team",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "private": false,
   "keywords": [
     "ai",
